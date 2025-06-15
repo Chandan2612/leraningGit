@@ -1,2 +1,2 @@
 # leraningGit
-learninGit how to use it
+learninGit how to use it and use
